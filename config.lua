@@ -2,21 +2,21 @@ Config = {}
 
 Config.blip = {
     label = 'Postal OP',
-    coords = vector3(-425.44, -2787.76, 6.0),
+    coords = vector3(78.76, 112.45, 81.17),
     sprite = 478,
     scale = 0.6,
     color = 10
 }
 
 Config.pedModel = 's_m_m_postal_01'
-Config.pedCoords = vector4(-425.44, -2787.76, 5.0, 326.65)
+Config.pedCoords = vector4(78.76, 112.45, 80.17, 159.34)
 
 Config.vehicleModel = 'benson'
 
 Config.vehicleSpawnLocations = {
-    { x = -446.24, y = -2789.72, z = 5.96, h = 46.04 },
-    { x = -451.24, y = -2793.8,  z = 5.96, h = 47.51 },
-    { x = -455.8,  y = -2798.48, z = 5.96, h = 44.91 }
+    { x = 71.71, y = 119.86, z = 79.14, h = 160.98 },
+    { x = 67.22, y = 121.52,  z = 79.14, h = 160.98 },
+    { x = 60.7,  y = 123.66, z = 79.14, h = 160.98 }
 }
 
 Config.deliveryLocations = {
